@@ -1,0 +1,17 @@
+{
+  "name": "idencoder",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./dist/idencoder.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc",
+    "run": "npx ts-node idencoder.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "ts-node": "^8.10.2"
+  }
+}
